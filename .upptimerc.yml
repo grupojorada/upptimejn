@@ -3,14 +3,12 @@ owner: grupojorada # Your GitHub organization or username, where this repository
 repo: upptimejn # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: JoradaNet
+    url: https://jorada.net
+  - name: JoradaCom
+    url: https://jorada.com
+  - name: JoradaOrg
+    url: https://jorada.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -27,5 +25,14 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/15 * * * *"
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
