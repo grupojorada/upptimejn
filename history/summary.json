@@ -4,53 +4,59 @@
     "url": "https://jorada.net",
     "icon": "https://favicons.githubusercontent.com/jorada.net",
     "slug": "jorada-net",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.10%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.10%",
     "time": 164,
     "timeDay": 164,
     "timeWeek": 164,
     "timeMonth": 164,
     "timeYear": 164,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-12": 0
+    }
   },
   {
     "name": "JoradaCom",
     "url": "https://jorada.com",
     "icon": "https://favicons.githubusercontent.com/jorada.com",
     "slug": "jorada-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
     "time": 193,
     "timeDay": 193,
     "timeWeek": 193,
     "timeMonth": 193,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-12": 0
+    }
   },
   {
     "name": "JoradaOrg",
     "url": "https://jorada.org",
     "icon": "https://favicons.githubusercontent.com/jorada.org",
     "slug": "jorada-org",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
     "time": 170,
     "timeDay": 170,
     "timeWeek": 170,
     "timeMonth": 170,
     "timeYear": 170,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-12": 0
+    }
   }
 ]
