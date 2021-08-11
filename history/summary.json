@@ -11,8 +11,8 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 175,
-    "timeDay": 195,
-    "timeWeek": 183,
+    "timeDay": 177,
+    "timeWeek": 181,
     "timeMonth": 175,
     "timeYear": 175,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 189,
-    "timeDay": 179,
-    "timeWeek": 182,
-    "timeMonth": 189,
-    "timeYear": 189,
+    "time": 188,
+    "timeDay": 163,
+    "timeWeek": 178,
+    "timeMonth": 188,
+    "timeYear": 188,
     "dailyMinutesDown": {
       "2021-07-12": 11
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/jorada.org",
     "slug": "jorada-org",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 203,
-    "timeDay": 168,
-    "timeWeek": 172,
-    "timeMonth": 203,
-    "timeYear": 203,
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 201,
+    "timeDay": 154,
+    "timeWeek": 173,
+    "timeMonth": 201,
+    "timeYear": 201,
     "dailyMinutesDown": {
       "2021-07-12": 10
     }
