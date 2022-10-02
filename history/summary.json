@@ -2,7 +2,7 @@
   {
     "name": "JoradaNet",
     "url": "https://jorada.net",
-    "icon": "https://favicons.githubusercontent.com/jorada.net",
+    "icon": "https://icons.duckduckgo.com/ip3/jorada.net.ico",
     "slug": "jorada-net",
     "status": "up",
     "uptime": "99.94%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 210,
-    "timeDay": 177,
-    "timeWeek": 216,
-    "timeMonth": 220,
+    "timeDay": 212,
+    "timeWeek": 222,
+    "timeMonth": 221,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2022-07-02": 19,
@@ -29,7 +29,7 @@
   {
     "name": "JoradaCom",
     "url": "https://jorada.com",
-    "icon": "https://favicons.githubusercontent.com/jorada.com",
+    "icon": "https://icons.duckduckgo.com/ip3/jorada.com.ico",
     "slug": "jorada-com",
     "status": "up",
     "uptime": "99.94%",
@@ -38,8 +38,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 212,
-    "timeDay": 198,
-    "timeWeek": 216,
+    "timeDay": 196,
+    "timeWeek": 212,
     "timeMonth": 217,
     "timeYear": 217,
     "dailyMinutesDown": {
@@ -56,7 +56,7 @@
   {
     "name": "JoradaOrg",
     "url": "https://jorada.org",
-    "icon": "https://favicons.githubusercontent.com/jorada.org",
+    "icon": "https://icons.duckduckgo.com/ip3/jorada.org.ico",
     "slug": "jorada-org",
     "status": "up",
     "uptime": "99.94%",
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 288,
-    "timeDay": 274,
-    "timeWeek": 387,
-    "timeMonth": 307,
+    "timeDay": 153,
+    "timeWeek": 365,
+    "timeMonth": 305,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2022-07-02": 19,
