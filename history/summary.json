@@ -4,19 +4,19 @@
     "url": "https://jorada.net",
     "icon": "https://icons.duckduckgo.com/ip3/jorada.net.ico",
     "slug": "jorada-net",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 195,
-    "timeDay": 204,
-    "timeWeek": 183,
+    "timeDay": 203,
+    "timeWeek": 185,
     "timeMonth": 199,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-04-22": 3,
+      "2024-04-22": 21,
       "2023-09-21": 22
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://jorada.com",
     "icon": "https://icons.duckduckgo.com/ip3/jorada.com.ico",
     "slug": "jorada-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 160,
-    "timeWeek": 222,
-    "timeMonth": 212,
+    "timeDay": 212,
+    "timeWeek": 228,
+    "timeMonth": 213,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2024-04-22": 2
+      "2024-04-22": 19
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://jorada.org",
     "icon": "https://icons.duckduckgo.com/ip3/jorada.org.ico",
     "slug": "jorada-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 293,
-    "timeDay": 322,
-    "timeWeek": 303,
-    "timeMonth": 287,
+    "timeDay": 330,
+    "timeWeek": 307,
+    "timeMonth": 289,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2024-04-22": 0
+      "2024-04-22": 18
     }
   }
 ]
