@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "98.96%",
     "uptimeDay": "3.15%",
-    "uptimeWeek": "47.31%",
-    "uptimeMonth": "87.28%",
+    "uptimeWeek": "47.24%",
+    "uptimeMonth": "87.26%",
     "uptimeYear": "95.62%",
     "time": 1922,
     "timeDay": 15063,
@@ -16,7 +16,7 @@
     "timeMonth": 6995,
     "timeYear": 2560,
     "dailyMinutesDown": {
-      "2025-10-24": 1355,
+      "2025-10-24": 1362,
       "2025-10-23": 1385,
       "2025-10-22": 1389,
       "2025-10-21": 1183,
@@ -56,8 +56,8 @@
     "status": "down",
     "uptime": "99.04%",
     "uptimeDay": "8.46%",
-    "uptimeWeek": "49.18%",
-    "uptimeMonth": "87.71%",
+    "uptimeWeek": "49.11%",
+    "uptimeMonth": "87.70%",
     "uptimeYear": "95.88%",
     "time": 1597,
     "timeDay": 14209,
@@ -65,7 +65,7 @@
     "timeMonth": 6976,
     "timeYear": 1989,
     "dailyMinutesDown": {
-      "2025-10-24": 1278,
+      "2025-10-24": 1285,
       "2025-10-23": 1360,
       "2025-10-22": 1322,
       "2025-10-21": 1162,
@@ -102,13 +102,13 @@
     "url": "https://jorada.org",
     "icon": "https://icons.duckduckgo.com/ip3/jorada.org.ico",
     "slug": "jorada-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "9.85%",
+    "uptimeDay": "10.30%",
     "uptimeWeek": "50.93%",
     "uptimeMonth": "88.12%",
     "uptimeYear": "96.18%",
-    "time": 1834,
+    "time": 1836,
     "timeDay": 7100,
     "timeWeek": 10174,
     "timeMonth": 6687,
@@ -142,7 +142,7 @@
       "2024-12-25": 871,
       "2024-11-26": 430,
       "2024-11-22": 305,
-      "2024-11-21": 75
+      "2024-11-21": 31
     }
   }
 ]
