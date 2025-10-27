@@ -6,9 +6,9 @@
     "slug": "jorada-net",
     "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "49.21%",
-    "uptimeWeek": "26.40%",
-    "uptimeMonth": "82.47%",
+    "uptimeDay": "48.11%",
+    "uptimeWeek": "26.24%",
+    "uptimeMonth": "82.43%",
     "uptimeYear": "95.22%",
     "time": 2248,
     "timeDay": 10790,
@@ -16,7 +16,7 @@
     "timeMonth": 8377,
     "timeYear": 2909,
     "dailyMinutesDown": {
-      "2025-10-27": 732,
+      "2025-10-27": 748,
       "2025-10-26": 124,
       "2025-10-25": 1220,
       "2025-10-24": 1389,
@@ -56,19 +56,19 @@
     "url": "https://jorada.com",
     "icon": "https://icons.duckduckgo.com/ip3/jorada.com.ico",
     "slug": "jorada-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "49.42%",
-    "uptimeWeek": "29.13%",
+    "uptimeDay": "49.30%",
+    "uptimeWeek": "29.11%",
     "uptimeMonth": "83.10%",
-    "uptimeYear": "95.60%",
-    "time": 2002,
-    "timeDay": 8778,
-    "timeWeek": 11265,
-    "timeMonth": 7997,
-    "timeYear": 2392,
+    "uptimeYear": "95.61%",
+    "time": 2034,
+    "timeDay": 10134,
+    "timeWeek": 11411,
+    "timeMonth": 8137,
+    "timeYear": 2427,
     "dailyMinutesDown": {
-      "2025-10-27": 729,
+      "2025-10-27": 731,
       "2025-10-26": 124,
       "2025-10-25": 1135,
       "2025-10-24": 1312,
@@ -98,7 +98,7 @@
       "2024-12-26": 650,
       "2024-12-25": 913,
       "2024-11-26": 467,
-      "2024-11-22": 395
+      "2024-11-22": 352
     }
   },
   {
@@ -106,13 +106,13 @@
     "url": "https://jorada.org",
     "icon": "https://icons.duckduckgo.com/ip3/jorada.org.ico",
     "slug": "jorada-org",
-    "status": "up",
-    "uptime": "99.12%",
-    "uptimeDay": "49.62%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "49.61%",
     "uptimeWeek": "32.42%",
     "uptimeMonth": "83.86%",
-    "uptimeYear": "96.23%",
-    "time": 2010,
+    "uptimeYear": "96.24%",
+    "time": 2012,
     "timeDay": 8688,
     "timeWeek": 10343,
     "timeMonth": 7771,
@@ -145,7 +145,7 @@
       "2025-01-02": 574,
       "2025-01-01": 1100,
       "2024-12-31": 714,
-      "2024-12-26": 123
+      "2024-12-26": 40
     }
   }
 ]
