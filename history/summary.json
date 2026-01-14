@@ -8,12 +8,12 @@
     "uptime": "98.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.11%",
+    "uptimeMonth": "95.08%",
     "uptimeYear": "94.80%",
-    "time": 2960,
-    "timeDay": 237,
-    "timeWeek": 227,
-    "timeMonth": 3105,
+    "time": 2956,
+    "timeDay": 269,
+    "timeWeek": 234,
+    "timeMonth": 3179,
     "timeYear": 3148,
     "dailyMinutesDown": {
       "2025-12-19": 1237,
@@ -46,8 +46,7 @@
       "2025-02-15": 1440,
       "2025-02-14": 1374,
       "2025-02-13": 377,
-      "2025-01-15": 871,
-      "2025-01-14": 902
+      "2025-01-15": 871
     }
   },
   {
@@ -59,12 +58,12 @@
     "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.48%",
+    "uptimeMonth": "95.37%",
     "uptimeYear": "95.02%",
     "time": 2973,
-    "timeDay": 236,
-    "timeWeek": 244,
-    "timeMonth": 3922,
+    "timeDay": 245,
+    "timeWeek": 262,
+    "timeMonth": 3569,
     "timeYear": 3079,
     "dailyMinutesDown": {
       "2025-12-19": 1214,
@@ -97,8 +96,7 @@
       "2025-02-15": 1440,
       "2025-02-14": 1373,
       "2025-02-13": 349,
-      "2025-01-15": 778,
-      "2025-01-14": 730
+      "2025-01-15": 778
     }
   },
   {
@@ -107,16 +105,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jorada.org.ico",
     "slug": "jorada-org",
     "status": "up",
-    "uptime": "98.92%",
+    "uptime": "98.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.57%",
+    "uptimeMonth": "95.42%",
     "uptimeYear": "95.15%",
     "time": 3267,
-    "timeDay": 378,
-    "timeWeek": 352,
-    "timeMonth": 3788,
-    "timeYear": 3210,
+    "timeDay": 376,
+    "timeWeek": 361,
+    "timeMonth": 3129,
+    "timeYear": 3211,
     "dailyMinutesDown": {
       "2025-12-19": 1219,
       "2025-12-18": 789,
@@ -148,8 +146,7 @@
       "2025-02-15": 1440,
       "2025-02-14": 1264,
       "2025-02-13": 315,
-      "2025-01-15": 771,
-      "2025-01-14": 655
+      "2025-01-15": 771
     }
   }
 ]
