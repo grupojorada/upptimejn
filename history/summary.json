@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jorada.net.ico",
     "slug": "jorada-net",
     "status": "up",
-    "uptime": "98.61%",
+    "uptime": "98.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.08%",
-    "uptimeYear": "94.80%",
-    "time": 2956,
-    "timeDay": 269,
-    "timeWeek": 234,
+    "uptimeYear": "94.97%",
+    "time": 3335,
+    "timeDay": 254,
+    "timeWeek": 243,
     "timeMonth": 3179,
-    "timeYear": 3148,
+    "timeYear": 2894,
     "dailyMinutesDown": {
       "2025-12-19": 1237,
       "2025-12-18": 918,
@@ -45,8 +45,7 @@
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1374,
-      "2025-02-13": 377,
-      "2025-01-15": 871
+      "2025-02-13": 377
     }
   },
   {
@@ -59,12 +58,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.37%",
-    "uptimeYear": "95.02%",
-    "time": 2973,
-    "timeDay": 245,
-    "timeWeek": 262,
-    "timeMonth": 3569,
-    "timeYear": 3079,
+    "uptimeYear": "95.15%",
+    "time": 2968,
+    "timeDay": 264,
+    "timeWeek": 265,
+    "timeMonth": 3570,
+    "timeYear": 2971,
     "dailyMinutesDown": {
       "2025-12-19": 1214,
       "2025-12-18": 813,
@@ -95,8 +94,7 @@
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1373,
-      "2025-02-13": 349,
-      "2025-01-15": 778
+      "2025-02-13": 349
     }
   },
   {
@@ -109,12 +107,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.42%",
-    "uptimeYear": "95.15%",
+    "uptimeYear": "95.28%",
     "time": 3267,
-    "timeDay": 376,
-    "timeWeek": 361,
-    "timeMonth": 3129,
-    "timeYear": 3211,
+    "timeDay": 205,
+    "timeWeek": 338,
+    "timeMonth": 3125,
+    "timeYear": 3185,
     "dailyMinutesDown": {
       "2025-12-19": 1219,
       "2025-12-18": 789,
@@ -145,8 +143,7 @@
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1264,
-      "2025-02-13": 315,
-      "2025-01-15": 771
+      "2025-02-13": 315
     }
   }
 ]
