@@ -8,12 +8,12 @@
     "uptime": "97.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "49.00%",
+    "uptimeMonth": "52.28%",
     "uptimeYear": "91.39%",
-    "time": 3806,
-    "timeDay": 141,
-    "timeWeek": 188,
-    "timeMonth": 9322,
+    "time": 3753,
+    "timeDay": 187,
+    "timeWeek": 173,
+    "timeMonth": 8708,
     "timeYear": 3491,
     "dailyMinutesDown": {
       "2026-02-03": 871,
@@ -57,8 +57,7 @@
       "2025-04-22": 28,
       "2025-03-16": 119,
       "2025-03-15": 385,
-      "2025-02-28": 719,
-      "2025-02-20": 36
+      "2025-02-28": 719
     }
   },
   {
@@ -70,12 +69,12 @@
     "uptime": "97.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "49.00%",
+    "uptimeMonth": "52.28%",
     "uptimeYear": "91.55%",
     "time": 3480,
-    "timeDay": 212,
-    "timeWeek": 251,
-    "timeMonth": 9300,
+    "timeDay": 186,
+    "timeWeek": 227,
+    "timeMonth": 8684,
     "timeYear": 3620,
     "dailyMinutesDown": {
       "2026-02-03": 871,
@@ -119,8 +118,7 @@
       "2025-04-22": 27,
       "2025-03-16": 119,
       "2025-03-15": 171,
-      "2025-02-28": 718,
-      "2025-02-20": 89
+      "2025-02-28": 718
     }
   },
   {
@@ -129,15 +127,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jorada.org.ico",
     "slug": "jorada-org",
     "status": "up",
-    "uptime": "97.91%",
+    "uptime": "97.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "49.00%",
+    "uptimeMonth": "52.28%",
     "uptimeYear": "91.64%",
-    "time": 3736,
-    "timeDay": 247,
-    "timeWeek": 287,
-    "timeMonth": 9356,
+    "time": 3731,
+    "timeDay": 185,
+    "timeWeek": 255,
+    "timeMonth": 8736,
     "timeYear": 3870,
     "dailyMinutesDown": {
       "2026-02-03": 871,
@@ -181,8 +179,7 @@
       "2025-04-22": 25,
       "2025-03-16": 119,
       "2025-03-15": 148,
-      "2025-02-28": 680,
-      "2025-02-20": 35
+      "2025-02-28": 680
     }
   }
 ]
