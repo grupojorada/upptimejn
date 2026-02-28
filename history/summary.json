@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jorada.net.ico",
     "slug": "jorada-net",
     "status": "up",
-    "uptime": "97.63%",
+    "uptime": "97.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.29%",
+    "uptimeMonth": "78.55%",
     "uptimeYear": "91.40%",
-    "time": 3637,
-    "timeDay": 199,
-    "timeWeek": 190,
-    "timeMonth": 4457,
+    "time": 3630,
+    "timeDay": 148,
+    "timeWeek": 183,
+    "timeMonth": 3851,
     "timeYear": 3498,
     "dailyMinutesDown": {
       "2026-02-03": 871,
@@ -56,8 +56,7 @@
       "2025-08-26": 901,
       "2025-04-22": 28,
       "2025-03-16": 119,
-      "2025-03-15": 385,
-      "2025-02-28": 719
+      "2025-03-15": 385
     }
   },
   {
@@ -69,12 +68,12 @@
     "uptime": "97.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.29%",
+    "uptimeMonth": "78.55%",
     "uptimeYear": "91.57%",
     "time": 3480,
-    "timeDay": 196,
-    "timeWeek": 207,
-    "timeMonth": 4460,
+    "timeDay": 117,
+    "timeWeek": 195,
+    "timeMonth": 3845,
     "timeYear": 3627,
     "dailyMinutesDown": {
       "2026-02-03": 871,
@@ -117,8 +116,7 @@
       "2025-08-26": 900,
       "2025-04-22": 27,
       "2025-03-16": 119,
-      "2025-03-15": 171,
-      "2025-02-28": 718
+      "2025-03-15": 171
     }
   },
   {
@@ -127,16 +125,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jorada.org.ico",
     "slug": "jorada-org",
     "status": "up",
-    "uptime": "97.92%",
+    "uptime": "97.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.29%",
+    "uptimeMonth": "78.55%",
     "uptimeYear": "91.65%",
-    "time": 3725,
-    "timeDay": 350,
-    "timeWeek": 241,
-    "timeMonth": 4483,
-    "timeYear": 3876,
+    "time": 3724,
+    "timeDay": 103,
+    "timeWeek": 207,
+    "timeMonth": 3867,
+    "timeYear": 3875,
     "dailyMinutesDown": {
       "2026-02-03": 871,
       "2026-02-02": 1440,
@@ -178,8 +176,7 @@
       "2025-08-26": 899,
       "2025-04-22": 25,
       "2025-03-16": 119,
-      "2025-03-15": 148,
-      "2025-02-28": 680
+      "2025-03-15": 148
     }
   }
 ]
