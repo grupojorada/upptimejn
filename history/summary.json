@@ -6,10 +6,10 @@
     "slug": "jorada-net",
     "status": "down",
     "uptime": "97.86%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "90.82%",
+    "uptimeDay": "87.63%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "90.79%",
     "time": 4085,
     "timeDay": 9858,
     "timeWeek": 2631,
@@ -61,7 +61,7 @@
       "2026-05-15": 860,
       "2026-05-16": 1124,
       "2026-05-17": 271,
-      "2026-08-05": 2
+      "2026-08-05": 178
     }
   },
   {
@@ -70,11 +70,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jorada.com.ico",
     "slug": "jorada-com",
     "status": "down",
-    "uptime": "97.97%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "91.04%",
+    "uptime": "97.96%",
+    "uptimeDay": "87.71%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "91.01%",
     "time": 3292,
     "timeDay": 10019,
     "timeWeek": 2663,
@@ -125,7 +125,7 @@
       "2026-05-15": 686,
       "2026-05-16": 1121,
       "2026-05-17": 269,
-      "2026-08-05": 1
+      "2026-08-05": 177
     }
   },
   {
@@ -133,16 +133,16 @@
     "url": "https://jorada.org",
     "icon": "https://icons.duckduckgo.com/ip3/jorada.org.ico",
     "slug": "jorada-org",
-    "status": "down",
-    "uptime": "98.24%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "91.15%",
-    "time": 3503,
-    "timeDay": 9872,
-    "timeWeek": 2645,
-    "timeMonth": 858,
+    "status": "up",
+    "uptime": "98.23%",
+    "uptimeDay": "87.80%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "91.12%",
+    "time": 3509,
+    "timeDay": 8007,
+    "timeWeek": 2826,
+    "timeMonth": 965,
     "timeYear": 4368,
     "dailyMinutesDown": {
       "2025-08-27": 1244,
@@ -190,7 +190,7 @@
       "2026-05-15": 753,
       "2026-05-16": 913,
       "2026-05-17": 268,
-      "2026-08-05": 0
+      "2026-08-05": 176
     }
   }
 ]
